@@ -68,8 +68,8 @@
     "built_at": "2023-02-05T06:38:14Z",
     "build_status": "pass",
     "docker_tag": "gr0v1ty/nano-node:fd5f8d8d0f079d6276881645ded9979868d0ae7c",
-    "tested_at": null,
-    "test_status": null
+    "tested_at": "2023-02-06T21:50:55",
+    "test_status": "PASS"
   },
   {
     "hash": "dbeea3a9b49e6c21a888c10c04c694d7970a82e8",
@@ -361,6 +361,18 @@
     "hash": "c75f04fcf157276cd72acf90f12bf272f86fcca2",
     "type": "commit",
     "created_at": "2023-02-01T11:20:08Z",
+    "built_at": null,
+    "build_status": null,
+    "docker_tag": null,
+    "tested_at": null,
+    "test_status": null
+  },
+  {
+    "hash": "c11dfba37a169a076b601b867d6b5044fef6eec8",
+    "type": "pull_request",
+    "pull_request": 3923,
+    "label": "nanocurrency:remove-upd-support-from-peer-container-tests",
+    "created_at": "2022-08-26T21:20:38Z",
     "built_at": null,
     "build_status": null,
     "docker_tag": null,
