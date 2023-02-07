@@ -1,5 +1,17 @@
 [
   {
+    "hash": "2ca2e2d9b22ef4e8fe1347af6d7c9232cdf1a4fe",
+    "type": "pull_request",
+    "pull_request": 4107,
+    "label": "thsfs:remove-udp-test-network-self-discard",
+    "created_at": "2023-02-07T14:32:34Z",
+    "built_at": "2023-02-07T15:09:14Z",
+    "build_status": "pass",
+    "docker_tag": "gr0v1ty/nano-node:2ca2e2d9b22ef4e8fe1347af6d7c9232cdf1a4fe",
+    "tested_at": null,
+    "test_status": null
+  },
+  {
     "hash": "baddb06a995d5c5d3d84844e22ee28df56f83f8d",
     "type": "commit",
     "created_at": "2023-02-07T01:41:05Z",
@@ -50,8 +62,8 @@
     "built_at": "2023-02-06T22:03:47Z",
     "build_status": "pass",
     "docker_tag": "gr0v1ty/nano-node:f8ef30cec9890deae3e49c04cf82135959bfd389",
-    "tested_at": null,
-    "test_status": null
+    "tested_at": "2023-02-07T16:55:42",
+    "test_status": "PASS"
   },
   {
     "hash": "f029fb7c60df64f3247e851cff3dc2e4fa9f54e5",
