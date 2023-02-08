@@ -1,5 +1,17 @@
 [
   {
+    "hash": "6839225b1234a61dc6b1d26a911e878e7e1f8518",
+    "type": "pull_request",
+    "pull_request": 4114,
+    "label": "pwojcikdev:prs/bootstrap-server-typo",
+    "created_at": "2023-02-08T20:31:05Z",
+    "built_at": "2023-02-08T21:07:08Z",
+    "build_status": "pass",
+    "docker_tag": "gr0v1ty/nano-node:6839225b1234a61dc6b1d26a911e878e7e1f8518",
+    "tested_at": null,
+    "test_status": null
+  },
+  {
     "hash": "f236750c37c7328566953ec6b0fd56d4fcc9af1d",
     "type": "pull_request",
     "pull_request": 4113,
@@ -66,8 +78,8 @@
     "built_at": "2023-02-08T18:46:23Z",
     "build_status": "pass",
     "docker_tag": "gr0v1ty/nano-node:a187ca80454a495aa0e13b5f7bc97b072f061c6e",
-    "tested_at": null,
-    "test_status": null
+    "tested_at": "2023-02-08T22:16:46",
+    "test_status": "PASS"
   },
   {
     "hash": "6299819eaeaafcd302ca42170e6532de9272df6f",
