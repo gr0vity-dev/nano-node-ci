@@ -1,5 +1,17 @@
 [
   {
+    "hash": "858844684f105f8a6d5aa161ec110d5320d23943",
+    "type": "pull_request",
+    "pull_request": 4127,
+    "label": "pwojcikdev:prs/ci/remove-boost-from-ci-build",
+    "created_at": "2023-02-14T18:08:19Z",
+    "built_at": "2023-02-14T18:48:01Z",
+    "build_status": "pass",
+    "docker_tag": "gr0v1ty/nano-node:858844684f105f8a6d5aa161ec110d5320d23943",
+    "tested_at": null,
+    "test_status": null
+  },
+  {
     "hash": "96aa93882704bf0f61523c8b3c36e721328d8b2d",
     "type": "commit",
     "created_at": "2023-02-14T17:52:34Z",
@@ -18,8 +30,8 @@
     "built_at": "2023-02-14T17:20:46Z",
     "build_status": "pass",
     "docker_tag": "gr0v1ty/nano-node:575d035bc8940a9d72773590b75914d3801bc8f3",
-    "tested_at": null,
-    "test_status": null
+    "tested_at": "2023-02-14T20:47:53",
+    "test_status": "PASS"
   },
   {
     "hash": "595857f00ea52c253154372736b148529eb01aac",
