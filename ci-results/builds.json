@@ -1,5 +1,15 @@
 [
   {
+    "hash": "a0dd56cc8ad07832d4f494ab627dae6eb1472089",
+    "type": "commit",
+    "created_at": "2023-02-15T12:07:31Z",
+    "built_at": "2023-02-15T13:03:31Z",
+    "build_status": "pass",
+    "docker_tag": "gr0v1ty/nano-node:a0dd56cc8ad07832d4f494ab627dae6eb1472089",
+    "tested_at": "2023-02-15T14:10:15",
+    "test_status": "PASS"
+  },
+  {
     "hash": "3bffc6990eebdb68a196ecdd4632a12f97089593",
     "type": "commit",
     "created_at": "2023-02-15T10:03:08Z",
