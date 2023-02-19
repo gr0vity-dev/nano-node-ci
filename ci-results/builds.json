@@ -1,5 +1,17 @@
 [
   {
+    "hash": "c988438f2297664ca604b13970844e8122a49228",
+    "type": "pull_request",
+    "pull_request": 4143,
+    "label": "thsfs:mix_of_udp_references_removal",
+    "created_at": "2023-02-18T22:03:56Z",
+    "built_at": "2023-02-18T22:48:24Z",
+    "build_status": "pass",
+    "docker_tag": "gr0v1ty/nano-node:c988438f2297664ca604b13970844e8122a49228",
+    "tested_at": null,
+    "test_status": null
+  },
+  {
     "hash": "f189f66152407a402a27aefb0ed2471db241abd8",
     "type": "commit",
     "created_at": "2023-02-18T20:13:59Z",
@@ -90,8 +102,8 @@
     "built_at": "2023-02-18T03:25:31Z",
     "build_status": "pass",
     "docker_tag": "gr0v1ty/nano-node:04103e492b98961e5d6fa6f7a3dd2475caa48710",
-    "tested_at": null,
-    "test_status": null
+    "tested_at": "2023-02-19T00:33:40",
+    "test_status": "FAIL"
   },
   {
     "hash": "662dbb96947fba352db23aef32d62ad9c45b138d",
