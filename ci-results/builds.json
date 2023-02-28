@@ -6,8 +6,8 @@
     "built_at": "2023-02-28T17:44:20Z",
     "build_status": "pass",
     "docker_tag": "gr0v1ty/nano-node:fef5fe8555d26a544fa540796f7e8b54c6cd20bb",
-    "tested_at": null,
-    "test_status": null
+    "tested_at": "2023-02-28T21:48:35",
+    "test_status": "PASS"
   },
   {
     "hash": "900dda838616af214be00cac37d54e16c732af27",
