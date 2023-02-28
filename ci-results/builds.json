@@ -1,5 +1,17 @@
 [
   {
+    "hash": "46ed8a12a945df00d1289b7c818ffb9c7062ba9e",
+    "type": "pull_request",
+    "pull_request": 4161,
+    "label": "clemahieu:block_processor_drop",
+    "created_at": "2023-02-27T23:23:24Z",
+    "built_at": "2023-02-28T00:00:01Z",
+    "build_status": "pass",
+    "docker_tag": "gr0v1ty/nano-node:46ed8a12a945df00d1289b7c818ffb9c7062ba9e",
+    "tested_at": null,
+    "test_status": null
+  },
+  {
     "hash": "cae17f34761eba138278c8f8e7c89ed21afe4871",
     "type": "pull_request",
     "pull_request": 4158,
@@ -68,8 +80,8 @@
     "built_at": "2023-02-27T21:28:50Z",
     "build_status": "pass",
     "docker_tag": "gr0v1ty/nano-node:407605e9c4b7761c3010289a160f73cf1fbc54e4",
-    "tested_at": null,
-    "test_status": null
+    "tested_at": "2023-02-28T01:34:52",
+    "test_status": "FAIL"
   },
   {
     "hash": "d590edf8718a487b2ff98a3122988d4705b77093",
