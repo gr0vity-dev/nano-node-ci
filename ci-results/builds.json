@@ -1,5 +1,41 @@
 [
   {
+    "hash": "cae17f34761eba138278c8f8e7c89ed21afe4871",
+    "type": "pull_request",
+    "pull_request": 4158,
+    "label": "clemahieu:bootstrap_ascending_client",
+    "created_at": "2023-02-27T20:15:37Z",
+    "built_at": "2023-02-27T22:59:14Z",
+    "build_status": "pass",
+    "docker_tag": "gr0v1ty/nano-node:cae17f34761eba138278c8f8e7c89ed21afe4871",
+    "tested_at": null,
+    "test_status": null
+  },
+  {
+    "hash": "7613c13046c305c1d8f953fd3f491fd34a781826",
+    "type": "pull_request",
+    "pull_request": 4158,
+    "label": "clemahieu:bootstrap_ascending_client",
+    "created_at": "2023-02-27T20:15:37Z",
+    "built_at": "2023-02-27T22:20:53Z",
+    "build_status": "pass",
+    "docker_tag": "gr0v1ty/nano-node:7613c13046c305c1d8f953fd3f491fd34a781826",
+    "tested_at": null,
+    "test_status": null
+  },
+  {
+    "hash": "6cfadd15b9b1d41ccc2e1734d01150e560d393b5",
+    "type": "pull_request",
+    "pull_request": 4158,
+    "label": "clemahieu:bootstrap_ascending_client",
+    "created_at": "2023-02-27T20:15:37Z",
+    "built_at": "2023-02-27T22:14:07Z",
+    "build_status": "pass",
+    "docker_tag": "gr0v1ty/nano-node:6cfadd15b9b1d41ccc2e1734d01150e560d393b5",
+    "tested_at": null,
+    "test_status": null
+  },
+  {
     "hash": "32c9108ec271e2c8e9067a287e56bfce6c6fa464",
     "type": "pull_request",
     "pull_request": 4160,
@@ -44,8 +80,8 @@
     "built_at": "2023-02-27T21:15:34Z",
     "build_status": "pass",
     "docker_tag": "gr0v1ty/nano-node:d590edf8718a487b2ff98a3122988d4705b77093",
-    "tested_at": null,
-    "test_status": null
+    "tested_at": "2023-02-28T00:12:29",
+    "test_status": "PASS"
   },
   {
     "hash": "4bcb3b1a5405398b022daa4ab061656e37ad4cef",
