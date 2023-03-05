@@ -1,5 +1,29 @@
 [
   {
+    "hash": "cf109c900a0a4c056ec691ae665aa8669f7ed35b",
+    "type": "pull_request",
+    "pull_request": 4158,
+    "label": "clemahieu:bootstrap_ascending_client",
+    "created_at": "2023-02-27T20:15:37Z",
+    "built_at": "2023-03-05T17:58:44Z",
+    "build_status": "pass",
+    "docker_tag": "gr0v1ty/nano-node:cf109c900a0a4c056ec691ae665aa8669f7ed35b",
+    "tested_at": null,
+    "test_status": null
+  },
+  {
+    "hash": "0ae674fc584aa889acd5c7b79ba6a5f0cffdf3c1",
+    "type": "pull_request",
+    "pull_request": 4158,
+    "label": "clemahieu:bootstrap_ascending_client",
+    "created_at": "2023-02-27T20:15:37Z",
+    "built_at": "2023-03-05T17:49:37Z",
+    "build_status": "pass",
+    "docker_tag": "gr0v1ty/nano-node:0ae674fc584aa889acd5c7b79ba6a5f0cffdf3c1",
+    "tested_at": null,
+    "test_status": null
+  },
+  {
     "hash": "84aeff43b61d30396e8e57e2ef82893d7bbf1ad4",
     "type": "pull_request",
     "pull_request": 4158,
@@ -20,8 +44,8 @@
     "built_at": "2023-03-05T17:23:35Z",
     "build_status": "pass",
     "docker_tag": "gr0v1ty/nano-node:431a3374c06f16b53595933a45aee1187d218ac5",
-    "tested_at": null,
-    "test_status": null
+    "tested_at": "2023-03-05T20:23:22",
+    "test_status": "FAIL"
   },
   {
     "hash": "bc60e763a9ee4d704f91789718b5ea33d5d44e7f",
