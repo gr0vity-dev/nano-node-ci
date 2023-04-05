@@ -1,5 +1,17 @@
 [
   {
+    "hash": "19ce7e5f6b6505a1f419945cc29af8cd718188eb",
+    "type": "pull_request",
+    "pull_request": 4212,
+    "label": "clemahieu:bootstrap_ascending_locking",
+    "created_at": "2023-04-05T17:34:52Z",
+    "built_at": "2023-04-05T19:41:36Z",
+    "build_status": "pass",
+    "docker_tag": "gr0v1ty/nano-node:19ce7e5f6b6505a1f419945cc29af8cd718188eb",
+    "tested_at": null,
+    "test_status": null
+  },
+  {
     "hash": "2f01c88490e15bc2891af7d8672bcd5132f93a7d",
     "type": "commit",
     "created_at": "2023-04-05T18:05:19Z",
@@ -240,8 +252,8 @@
     "built_at": "2023-04-03T15:37:18Z",
     "build_status": "pass",
     "docker_tag": "gr0v1ty/nano-node:a80b027dfb72fe52b889412432c7693cfb5ec5c5",
-    "tested_at": null,
-    "test_status": null
+    "tested_at": "2023-04-05T21:26:00",
+    "test_status": "FAIL"
   },
   {
     "hash": "62bdaba67c36b81ac6c88c6d875e9b47300dc09d",
