@@ -1,5 +1,239 @@
 [
   {
+    "hash": "8df88cd904ab408f60399516823cd07c818a027b",
+    "type": "pull_request",
+    "pull_request": 4211,
+    "label": "clemahieu:bootstrap_channel_scoring",
+    "created_at": "2023-04-05T17:07:44Z",
+    "built_at": "2023-04-14T18:16:30Z",
+    "build_status": "pass",
+    "docker_tag": "gr0v1ty/nano-node:8df88cd904ab408f60399516823cd07c818a027b",
+    "tested_at": null,
+    "test_status": null
+  },
+  {
+    "hash": "1c83e83ac4b02abda0e7f36aa748d5527fc89802",
+    "type": "pull_request",
+    "pull_request": 4211,
+    "label": "clemahieu:bootstrap_channel_scoring",
+    "created_at": "2023-04-05T17:07:44Z",
+    "built_at": "2023-04-14T11:28:34Z",
+    "build_status": "pass",
+    "docker_tag": "gr0v1ty/nano-node:1c83e83ac4b02abda0e7f36aa748d5527fc89802",
+    "tested_at": null,
+    "test_status": null
+  },
+  {
+    "hash": "a3a2a5f1a2f9baa1d1c9cbc3d0d0306fb04dcbfc",
+    "type": "pull_request",
+    "pull_request": 4211,
+    "label": "clemahieu:bootstrap_channel_scoring",
+    "created_at": "2023-04-05T17:07:44Z",
+    "built_at": "2023-04-14T10:57:52Z",
+    "build_status": "pass",
+    "docker_tag": "gr0v1ty/nano-node:a3a2a5f1a2f9baa1d1c9cbc3d0d0306fb04dcbfc",
+    "tested_at": null,
+    "test_status": null
+  },
+  {
+    "hash": "23e7268d996229921a144c44335f015608623828",
+    "type": "pull_request",
+    "pull_request": 4211,
+    "label": "clemahieu:bootstrap_channel_scoring",
+    "created_at": "2023-04-05T17:07:44Z",
+    "built_at": "2023-04-13T22:54:57Z",
+    "build_status": "pass",
+    "docker_tag": "gr0v1ty/nano-node:23e7268d996229921a144c44335f015608623828",
+    "tested_at": null,
+    "test_status": null
+  },
+  {
+    "hash": "02ef3a1fd82a58d0df90bd45635aac8f01cc42e6",
+    "type": "pull_request",
+    "pull_request": 4211,
+    "label": "clemahieu:bootstrap_channel_scoring",
+    "created_at": "2023-04-05T17:07:44Z",
+    "built_at": "2023-04-13T22:13:16Z",
+    "build_status": "pass",
+    "docker_tag": "gr0v1ty/nano-node:02ef3a1fd82a58d0df90bd45635aac8f01cc42e6",
+    "tested_at": null,
+    "test_status": null
+  },
+  {
+    "hash": "442f0cdb35b2c190786f5410bbc4e8aaed114c42",
+    "type": "pull_request",
+    "pull_request": 4211,
+    "label": "clemahieu:bootstrap_channel_scoring",
+    "created_at": "2023-04-05T17:07:44Z",
+    "built_at": "2023-04-13T17:39:44Z",
+    "build_status": "pass",
+    "docker_tag": "gr0v1ty/nano-node:442f0cdb35b2c190786f5410bbc4e8aaed114c42",
+    "tested_at": null,
+    "test_status": null
+  },
+  {
+    "hash": "6c9f9d680e32e22764419fed306dbd4756f8748b",
+    "type": "pull_request",
+    "pull_request": 4211,
+    "label": "clemahieu:bootstrap_channel_scoring",
+    "created_at": "2023-04-05T17:07:44Z",
+    "built_at": "2023-04-13T17:26:45Z",
+    "build_status": "pass",
+    "docker_tag": "gr0v1ty/nano-node:6c9f9d680e32e22764419fed306dbd4756f8748b",
+    "tested_at": null,
+    "test_status": null
+  },
+  {
+    "hash": "eb15699d0e220ae518a119eb2e3e19a086b4f6ae",
+    "type": "pull_request",
+    "pull_request": 4211,
+    "label": "clemahieu:bootstrap_channel_scoring",
+    "created_at": "2023-04-05T17:07:44Z",
+    "built_at": "2023-04-13T17:03:21Z",
+    "build_status": "pass",
+    "docker_tag": "gr0v1ty/nano-node:eb15699d0e220ae518a119eb2e3e19a086b4f6ae",
+    "tested_at": null,
+    "test_status": null
+  },
+  {
+    "hash": "c1255fb7f6dbdb757918fe826422015b3b812b0c",
+    "type": "commit",
+    "created_at": "2023-04-07T14:02:28Z",
+    "built_at": "2023-04-13T14:43:29Z",
+    "build_status": "pass",
+    "docker_tag": "gr0v1ty/nano-node:c1255fb7f6dbdb757918fe826422015b3b812b0c",
+    "tested_at": null,
+    "test_status": null
+  },
+  {
+    "hash": "b0e3f2f750221421cdceccaea197f01d40ed293e",
+    "type": "commit",
+    "created_at": "2023-04-07T12:26:21Z",
+    "built_at": "2023-04-13T14:28:57Z",
+    "build_status": "pass",
+    "docker_tag": "gr0v1ty/nano-node:b0e3f2f750221421cdceccaea197f01d40ed293e",
+    "tested_at": null,
+    "test_status": null
+  },
+  {
+    "hash": "6f9807778e9bfa611c39960c4e0588d73ec2492f",
+    "type": "commit",
+    "created_at": "2023-04-07T02:36:22Z",
+    "built_at": "2023-04-13T14:21:26Z",
+    "build_status": "pass",
+    "docker_tag": "gr0v1ty/nano-node:6f9807778e9bfa611c39960c4e0588d73ec2492f",
+    "tested_at": null,
+    "test_status": null
+  },
+  {
+    "hash": "68f860b1f7aed19bf29b339d0e36b41c8def3856",
+    "type": "commit",
+    "created_at": "2023-04-07T13:01:08Z",
+    "built_at": "2023-04-13T14:14:25Z",
+    "build_status": "pass",
+    "docker_tag": "gr0v1ty/nano-node:68f860b1f7aed19bf29b339d0e36b41c8def3856",
+    "tested_at": null,
+    "test_status": null
+  },
+  {
+    "hash": "4986ae3914de57aec4b366f9890d6108615b3c8e",
+    "type": "commit",
+    "created_at": "2023-04-06T21:37:06Z",
+    "built_at": "2023-04-13T14:13:41Z",
+    "build_status": "pass",
+    "docker_tag": "gr0v1ty/nano-node:4986ae3914de57aec4b366f9890d6108615b3c8e",
+    "tested_at": null,
+    "test_status": null
+  },
+  {
+    "hash": "46b7af8b66b13bbcd7a9f31285f75d25f044d3d0",
+    "type": "commit",
+    "created_at": "2023-04-06T19:24:53Z",
+    "built_at": "2023-04-13T13:59:15Z",
+    "build_status": "pass",
+    "docker_tag": "gr0v1ty/nano-node:46b7af8b66b13bbcd7a9f31285f75d25f044d3d0",
+    "tested_at": null,
+    "test_status": null
+  },
+  {
+    "hash": "27a4c83259d6ca896b5dad840208743f677fd4f6",
+    "type": "commit",
+    "created_at": "2023-04-13T12:45:21Z",
+    "built_at": "2023-04-13T13:32:42Z",
+    "build_status": "pass",
+    "docker_tag": "gr0v1ty/nano-node:27a4c83259d6ca896b5dad840208743f677fd4f6",
+    "tested_at": null,
+    "test_status": null
+  },
+  {
+    "hash": "1170407c8dfd0e0076c455eac3b7eba582915211",
+    "type": "commit",
+    "created_at": "2023-04-06T19:42:25Z",
+    "built_at": "2023-04-13T13:21:32Z",
+    "build_status": "pass",
+    "docker_tag": "gr0v1ty/nano-node:1170407c8dfd0e0076c455eac3b7eba582915211",
+    "tested_at": null,
+    "test_status": null
+  },
+  {
+    "hash": "4f4ccf76498f8786ec414d03cfa39aa6d511fd7b",
+    "type": "commit",
+    "created_at": "2023-04-11T14:13:54Z",
+    "built_at": "2023-04-11T14:54:48Z",
+    "build_status": "pass",
+    "docker_tag": "gr0v1ty/nano-node:4f4ccf76498f8786ec414d03cfa39aa6d511fd7b",
+    "tested_at": null,
+    "test_status": null
+  },
+  {
+    "hash": "a2c5eaaf4761177bfe0ece6ac1714440533668fb",
+    "type": "pull_request",
+    "pull_request": 4213,
+    "label": "thsfs:bootstrap_ascending_class_files_split",
+    "created_at": "2023-04-07T13:02:58Z",
+    "built_at": "2023-04-11T14:11:38Z",
+    "build_status": "pass",
+    "docker_tag": "gr0v1ty/nano-node:a2c5eaaf4761177bfe0ece6ac1714440533668fb",
+    "tested_at": null,
+    "test_status": null
+  },
+  {
+    "hash": "522590651769dedde9e9a0478caea37e9cb664f5",
+    "type": "pull_request",
+    "pull_request": 4213,
+    "label": "thsfs:bootstrap_ascending_class_files_split",
+    "created_at": "2023-04-07T13:02:58Z",
+    "built_at": "2023-04-10T21:22:16Z",
+    "build_status": "pass",
+    "docker_tag": "gr0v1ty/nano-node:522590651769dedde9e9a0478caea37e9cb664f5",
+    "tested_at": null,
+    "test_status": null
+  },
+  {
+    "hash": "2931630f361baef10ed2be9c827ba888123118c0",
+    "type": "pull_request",
+    "pull_request": 4213,
+    "label": "thsfs:bootstrap_ascending_class_files_split",
+    "created_at": "2023-04-07T13:02:58Z",
+    "built_at": "2023-04-07T15:27:42Z",
+    "build_status": "pass",
+    "docker_tag": "gr0v1ty/nano-node:2931630f361baef10ed2be9c827ba888123118c0",
+    "tested_at": null,
+    "test_status": null
+  },
+  {
+    "hash": "0c9a99221f12f27ad08014026a87e111f6c0184c",
+    "type": "pull_request",
+    "pull_request": 4213,
+    "label": "thsfs:bootstrap_ascending_class_files_split",
+    "created_at": "2023-04-07T13:02:58Z",
+    "built_at": "2023-04-07T13:56:46Z",
+    "build_status": "pass",
+    "docker_tag": "gr0v1ty/nano-node:0c9a99221f12f27ad08014026a87e111f6c0184c",
+    "tested_at": null,
+    "test_status": null
+  },
+  {
     "hash": "f65e58a2d2682912054e767e00692ef4df38227c",
     "type": "commit",
     "created_at": "2023-04-05T20:44:13Z",
@@ -126,8 +360,8 @@
     "built_at": "2023-04-05T13:27:21Z",
     "build_status": "pass",
     "docker_tag": "gr0v1ty/nano-node:addea482b93f3c04f84bd5f86c0846d4bf40d5a0",
-    "tested_at": null,
-    "test_status": null
+    "tested_at": "2023-04-17T07:10:05",
+    "test_status": "FAIL"
   },
   {
     "hash": "b41943214be091f32bc35b484259ff6bb8a5fc64",
@@ -136,8 +370,8 @@
     "built_at": "2023-04-05T12:18:56Z",
     "build_status": "pass",
     "docker_tag": "gr0v1ty/nano-node:b41943214be091f32bc35b484259ff6bb8a5fc64",
-    "tested_at": null,
-    "test_status": null
+    "tested_at": "2023-04-17T06:16:58",
+    "test_status": "FAIL"
   },
   {
     "hash": "94b12c61cf90867b54c69eddd907cc6fc7380327",
