@@ -1,5 +1,15 @@
 [
   {
+    "hash": "d3fcc4dcc6ebbf17338ce44237b0dbf2906f7be7",
+    "type": "commit",
+    "created_at": "2023-04-17T10:41:26Z",
+    "built_at": "2023-04-17T11:15:17Z",
+    "build_status": "pass",
+    "docker_tag": "gr0v1ty/nano-node:d3fcc4dcc6ebbf17338ce44237b0dbf2906f7be7",
+    "tested_at": null,
+    "test_status": null
+  },
+  {
     "hash": "8df88cd904ab408f60399516823cd07c818a027b",
     "type": "pull_request",
     "pull_request": 4211,
@@ -338,8 +348,8 @@
     "built_at": "2023-04-05T15:55:43Z",
     "build_status": "pass",
     "docker_tag": "gr0v1ty/nano-node:fbdf29e1851f2fb35022be687d63b4f099ae093c",
-    "tested_at": null,
-    "test_status": null
+    "tested_at": "2023-04-18T09:13:35",
+    "test_status": "FAIL"
   },
   {
     "hash": "9c9c56bf59e7b5603e2b414120d179e0db4b5663",
