@@ -8,8 +8,8 @@
     "built_at": "2023-04-19T16:16:59Z",
     "build_status": "pass",
     "docker_tag": "gr0v1ty/nano-node:faedb40b565fcbd3ddb807f5325c596d589091c3",
-    "tested_at": null,
-    "test_status": null
+    "tested_at": "2023-04-19T20:21:40",
+    "test_status": "FAIL"
   },
   {
     "hash": "d3fcc4dcc6ebbf17338ce44237b0dbf2906f7be7",
@@ -18,8 +18,8 @@
     "built_at": "2023-04-17T11:15:17Z",
     "build_status": "pass",
     "docker_tag": "gr0v1ty/nano-node:d3fcc4dcc6ebbf17338ce44237b0dbf2906f7be7",
-    "tested_at": null,
-    "test_status": null
+    "tested_at": "2023-04-19T19:02:43",
+    "test_status": "FAIL"
   },
   {
     "hash": "8df88cd904ab408f60399516823cd07c818a027b",
